@@ -57,6 +57,17 @@ I am working toward Georgia Tech OMSCS to restate these commitments in more form
 
 ## Background
 
-Applied AI engineering in domain-heavy contexts. The thesis above is what I have come to think after trying to make LLMs useful inside real workflows without making them the center of those workflows.
+Applied AI engineering in domain-heavy contexts. The thesis
+above is what I have come to think after trying to make LLMs
+useful inside real workflows without making them the center
+of those workflows.
 
-I am interested in where AI agents should stop — and how that line can be enforced in code.
+My formation crosses two traditions: a liberal arts background
+and ongoing graduate study in computer science. The questions
+about agency, representation, and the structure of judgment in
+this portfolio come from the first; the way they are implemented
+as schemas, state machines, and typed pipelines comes from the
+second.
+
+I am interested in where AI agents should stop — and how that
+boundary can be made explicit in code.
